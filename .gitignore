@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+
+# Project runtime artifacts
+logs.txt
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
